@@ -36,7 +36,9 @@
 | 提示词 | 原名 | Vic 评分 |
 |---|---|---|
 | [回复率导向的冷邮件生成器](collection/foreign-trade/reply-focused-cold-email.md) | Reply-Focused Cold Email Builder | 9/10 |
+| [B2B 客户背调报告（按决策定制）](collection/foreign-trade/b2b-market-research.md) | B2B Market Research | 9/10 |
 | [直复营销式高转化冷邮件](collection/foreign-trade/high-conversion-cold-email.md) | High Conversion Cold Email | 8/10 |
+| [逾期账款整理与分级催款](collection/foreign-trade/late-payment-chaser.md) | Freelance Invoice and Late Payment Chaser (JSON) | 8/10 |
 | [多语种商务邮件写手](collection/foreign-trade/multilingual-email-writer.md) | professional-multilingual-email-writer | 7/10 |
 
 ### 🚢 国际物流 Global Logistics
