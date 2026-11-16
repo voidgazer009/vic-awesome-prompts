@@ -66,6 +66,8 @@
 |---|---|---|
 | [高留存 YouTube 脚本引擎](collection/social-media/youtube-script-engine.md) | YouTube Script Engine — High Retention | 9/10 |
 | [爆款短视频 AI 生成提示词优化器](collection/social-media/viral-shorts-optimizer.md) | Viral YouTube Shorts Prompt Optimizer | 7/10 |
+| [TikTok / 小红书爆款视频拆解](collection/social-media/viral-video-analyzer.md) | Viral Video Analyzer for TikTok and Xiaohongshu | 7/10 |
+| [社媒帖子研究与选题素材](collection/social-media/social-post-analyzer.md) | Social Media Post Analyzer | 7/10 |
 
 ### 🧰 通用 General
 
