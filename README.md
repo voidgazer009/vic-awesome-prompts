@@ -49,7 +49,9 @@
 |---|---|---|
 | [共情 + 政策边界的客服回复](collection/logistics/support-reply-drafter.md) | Customer Support Reply Drafter (Empathy + Policy) | 9/10 |
 | [发票数字与完整性核对](collection/logistics/invoice-checker.md) | Invoice Checker | 8/10 |
+| [延误索赔材料整理（JSON）](collection/logistics/train-delay-claim.md) | Train Delay Compensation Claim (JSON) | 8/10 |
 | [集装箱追踪关键词 SEO 策略](collection/logistics/container-tracking-seo.md) | SEO Strategy for Container Tracking Keywords | 7/10 |
+| [后勤策划师（基础版）](collection/logistics/logistician-basic.md) | Logistician | 7/10 |
 | [活动接送与住宿后勤计划（YAML）](collection/logistics/event-logistics-plan.md) | Wedding Guest Logistics Plan Builder (YAML) | 7/10 |
 
 ### 🤖 AI 一人公司 One-Person Company
