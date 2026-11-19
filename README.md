@@ -60,9 +60,11 @@
 |---|---|---|
 | [早期创业 PRD 压力测试官](collection/one-person-company/prd-critic.md) | PRD Critic for Early-Stage Startups | 10/10 |
 | [客户访谈洞察提取器（JSON）](collection/one-person-company/customer-interview-extractor.md) | Customer Interview Insight Extractor (JSON) | 9/10 |
+| [生产级 AI Agent 十五步设计师](collection/one-person-company/agent-architect-15-steps.md) | AI Agent Architect — Design Production-Ready Agents in 15 Steps | 8/10 |
 | [商业模式风险与情景分析](collection/one-person-company/business-risk-analyzer.md) | Business Risk & Scenario Analyzer | 8/10 |
 | [AI 编程 MVP 蓝图架构师](collection/one-person-company/micro-saas-vibecoder.md) | Micro-SaaS "Vibecoder" Architect | 8/10 |
 | [14 天从想法到首位付费客户系统](collection/one-person-company/zero-to-one-launch.md) | Zero to One Solo-Founder Launch System | 7/10 |
+| [自由职业者法律风险自查工具（Shield）](collection/one-person-company/freelancer-legal-risk-shield.md) | Legal Risk Minimization Tool for Freelancers | 7/10 |
 
 ### 📱 自媒体运营 Social Media
 
