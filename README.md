@@ -71,9 +71,11 @@
 | 提示词 | 原名 | Vic 评分 |
 |---|---|---|
 | [高留存 YouTube 脚本引擎](collection/social-media/youtube-script-engine.md) | YouTube Script Engine — High Retention | 9/10 |
+| [LinkedIn 真人感评论生成器](collection/social-media/linkedin-comments.md) | LinkedIn comments | 8/10 |
 | [爆款短视频 AI 生成提示词优化器](collection/social-media/viral-shorts-optimizer.md) | Viral YouTube Shorts Prompt Optimizer | 7/10 |
 | [TikTok / 小红书爆款视频拆解](collection/social-media/viral-video-analyzer.md) | Viral Video Analyzer for TikTok and Xiaohongshu | 7/10 |
 | [社媒帖子研究与选题素材](collection/social-media/social-post-analyzer.md) | Social Media Post Analyzer | 7/10 |
+| [UGC 风格 TikTok 带货脚本生成器](collection/social-media/ugc-tiktok-script.md) | UGC-Style TikTok Script Generator for Gen Z Skincare | 7/10 |
 
 ### 🧰 通用 General
 
